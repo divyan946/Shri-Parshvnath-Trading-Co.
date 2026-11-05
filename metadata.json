@@ -1,0 +1,6 @@
+{
+  "name": "Shri Parshvnath Trading Co.",
+  "description": "Premium Kota stone, tiles, marble, and granite catalog with WhatsApp quotes, area calculator, and Gemini AI descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
